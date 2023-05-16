@@ -92,7 +92,7 @@
 
 						@else
 						<br>
-						<p class="text-center">Please Login or Register In User Panel , Thank you !s</p>
+						<p class="text-center">Please Login or Register In User Panel , Thank you !</p>
 
 						@endif
 

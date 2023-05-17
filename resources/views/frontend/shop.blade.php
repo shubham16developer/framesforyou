@@ -277,8 +277,9 @@
 			<div class="row isotope-grid">
 
 				<?php
+				
 				use App\Models\Product;
-				$products = Product::where('is_delete' , '0')->with('product_category')->with('product_color')->get();
+				$products = Product::where('is_delete' , '0')->with('product_category','product_color')->get();
 
 				?>
 

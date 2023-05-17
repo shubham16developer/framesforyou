@@ -92,9 +92,9 @@
 	</section>	
 	
 	<!-- Map -->
-	<div class="map">
+	<!-- <div class="map">
 		<div class="size-303" id="google_map" data-map-x="23.110204" data-map-y="72.588405" data-pin="{{asset('frontend/images/icons/pin.png') }}" data-scrollwhell="0" data-draggable="1" data-zoom="15"></div>
-	</div>
+	</div> -->
 
 	@endsection
 
